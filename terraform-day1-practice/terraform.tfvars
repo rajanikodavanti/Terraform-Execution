@@ -1,0 +1,1 @@
+cidr_block_test_vpc = "10.0.0.0/16"
